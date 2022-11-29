@@ -1,3 +1,3 @@
 ### Carousel with Framer motion
 
-![Carousel](preview.gif)
+![Carousel](/public/preview.gif)
